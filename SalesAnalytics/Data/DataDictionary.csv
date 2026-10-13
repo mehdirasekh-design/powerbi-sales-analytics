@@ -1,0 +1,28 @@
+﻿Table,Column,Description
+FactSales,OrderID,Unique order identifier
+FactSales,OrderDate,Date the order was placed
+FactSales,ShipDate,Date the order was shipped
+FactSales,CustomerID,Customer foreign key
+FactSales,ProductID,Product foreign key
+FactSales,Quantity,Units sold
+FactSales,Discount,Discount rate
+FactSales,UnitPrice,List price per unit
+FactSales,UnitCost,Cost per unit
+FactSales,SalesAmount,Net sales after discount
+FactSales,CostAmount,Total product cost
+FactSales,ProfitAmount,Sales minus cost
+FactSales,OrderStatus,"Completed, Returned, or Cancelled"
+DimCustomer,CustomerID,Customer key
+DimCustomer,CustomerName,Customer name
+DimCustomer,Gender,Customer gender
+DimCustomer,Age,Customer age
+DimCustomer,AgeGroup,Customer age band
+DimCustomer,City,Customer city
+DimCustomer,Region,Customer region
+DimProduct,ProductID,Product key
+DimProduct,ProductName,Product name
+DimProduct,Category,Product category
+DimProduct,SubCategory,Product subcategory
+DimProduct,Brand,Product brand
+DimProduct,UnitPrice,List price
+DimProduct,UnitCost,Unit cost

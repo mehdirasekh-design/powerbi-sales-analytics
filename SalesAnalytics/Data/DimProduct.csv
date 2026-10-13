@@ -1,0 +1,501 @@
+﻿ProductID,ProductName,Category,SubCategory,Brand,UnitPrice,UnitCost
+PROD0001,Vesta Laptops 001,Electronics,Laptops,Mira,699.0,357.83
+PROD0002,Zenith Laptops 002,Electronics,Laptops,Vesta,169.73,93.35
+PROD0003,Zenith Laptops 003,Electronics,Laptops,Nexa,135.96,73.86
+PROD0004,Zenith Laptops 004,Electronics,Laptops,Aria,724.99,405.67
+PROD0005,Nexa Laptops 005,Electronics,Laptops,Orion,873.65,579.81
+PROD0006,Aria Laptops 006,Electronics,Laptops,Nexa,892.19,469.12
+PROD0007,Orion Laptops 007,Electronics,Laptops,Atria,242.74,184.77
+PROD0008,Pulse Laptops 008,Electronics,Laptops,Mira,232.19,131.29
+PROD0009,Nexa Laptops 009,Electronics,Laptops,Zenith,334.72,188.74
+PROD0010,Pulse Laptops 010,Electronics,Laptops,Zenith,545.94,325.12
+PROD0011,Zenith Laptops 011,Electronics,Laptops,Vesta,462.8,323.5
+PROD0012,Mira Laptops 012,Electronics,Laptops,Mira,460.58,239.16
+PROD0013,Nova Laptops 013,Electronics,Laptops,Nexa,42.29,30.97
+PROD0014,Zenith Laptops 014,Electronics,Laptops,Vesta,228.5,129.82
+PROD0015,Zenith Laptops 015,Electronics,Laptops,Orion,620.53,479.65
+PROD0016,Mira Laptops 016,Electronics,Laptops,Aria,69.75,32.97
+PROD0017,Aria Laptops 017,Electronics,Laptops,Atria,296.0,158.56
+PROD0018,Nova Laptops 018,Electronics,Laptops,Zenith,895.28,438.19
+PROD0019,Atria Laptops 019,Electronics,Laptops,Atria,884.32,419.11
+PROD0020,Mira Laptops 020,Electronics,Laptops,Zenith,36.4,27.41
+PROD0021,Nova Laptops 021,Electronics,Laptops,Vertex,30.01,16.08
+PROD0022,Zenith Laptops 022,Electronics,Laptops,Vertex,208.87,145.54
+PROD0023,Vertex Laptops 023,Electronics,Laptops,Atria,509.73,230.44
+PROD0024,Pulse Laptops 024,Electronics,Laptops,Mira,667.49,393.45
+PROD0025,Nexa Laptops 025,Electronics,Laptops,Vertex,204.02,96.58
+PROD0026,Pulse Smartphones 026,Electronics,Smartphones,Pulse,583.79,305.72
+PROD0027,Aria Smartphones 027,Electronics,Smartphones,Mira,442.74,285.62
+PROD0028,Mira Smartphones 028,Electronics,Smartphones,Mira,812.55,383.7
+PROD0029,Zenith Smartphones 029,Electronics,Smartphones,Pulse,320.3,179.35
+PROD0030,Mira Smartphones 030,Electronics,Smartphones,Orion,694.63,345.36
+PROD0031,Atria Smartphones 031,Electronics,Smartphones,Nexa,219.46,148.07
+PROD0032,Orion Smartphones 032,Electronics,Smartphones,Vesta,475.24,357.92
+PROD0033,Nexa Smartphones 033,Electronics,Smartphones,Vesta,801.57,559.81
+PROD0034,Zenith Smartphones 034,Electronics,Smartphones,Vesta,823.5,459.91
+PROD0035,Aria Smartphones 035,Electronics,Smartphones,Zenith,498.04,349.27
+PROD0036,Atria Smartphones 036,Electronics,Smartphones,Atria,490.18,278.23
+PROD0037,Pulse Smartphones 037,Electronics,Smartphones,Nova,609.05,342.84
+PROD0038,Vertex Smartphones 038,Electronics,Smartphones,Nexa,29.25,14.29
+PROD0039,Nexa Smartphones 039,Electronics,Smartphones,Vertex,83.33,39.96
+PROD0040,Nexa Smartphones 040,Electronics,Smartphones,Vesta,620.57,447.53
+PROD0041,Orion Smartphones 041,Electronics,Smartphones,Nova,176.82,92.9
+PROD0042,Orion Smartphones 042,Electronics,Smartphones,Nexa,839.94,457.19
+PROD0043,Nova Smartphones 043,Electronics,Smartphones,Orion,197.41,103.25
+PROD0044,Nexa Smartphones 044,Electronics,Smartphones,Nexa,196.46,89.7
+PROD0045,Mira Smartphones 045,Electronics,Smartphones,Nova,793.91,573.88
+PROD0046,Orion Smartphones 046,Electronics,Smartphones,Nova,391.79,279.61
+PROD0047,Aria Smartphones 047,Electronics,Smartphones,Nexa,241.95,168.94
+PROD0048,Pulse Smartphones 048,Electronics,Smartphones,Nexa,883.87,468.02
+PROD0049,Vesta Smartphones 049,Electronics,Smartphones,Pulse,377.16,209.06
+PROD0050,Vesta Smartphones 050,Electronics,Smartphones,Atria,498.66,333.49
+PROD0051,Orion Audio 051,Electronics,Audio,Nova,317.79,244.5
+PROD0052,Pulse Audio 052,Electronics,Audio,Vesta,761.85,375.42
+PROD0053,Nexa Audio 053,Electronics,Audio,Atria,665.68,432.56
+PROD0054,Nexa Audio 054,Electronics,Audio,Atria,704.49,383.19
+PROD0055,Atria Audio 055,Electronics,Audio,Vesta,69.53,45.0
+PROD0056,Nexa Audio 056,Electronics,Audio,Aria,152.88,105.24
+PROD0057,Aria Audio 057,Electronics,Audio,Mira,195.45,113.2
+PROD0058,Vertex Audio 058,Electronics,Audio,Mira,353.38,171.63
+PROD0059,Vesta Audio 059,Electronics,Audio,Orion,205.55,104.3
+PROD0060,Vesta Audio 060,Electronics,Audio,Aria,594.87,395.51
+PROD0061,Nexa Audio 061,Electronics,Audio,Mira,886.48,481.79
+PROD0062,Vesta Audio 062,Electronics,Audio,Nova,786.99,380.75
+PROD0063,Mira Audio 063,Electronics,Audio,Pulse,853.65,645.83
+PROD0064,Vesta Audio 064,Electronics,Audio,Vertex,132.6,69.95
+PROD0065,Orion Audio 065,Electronics,Audio,Nexa,318.87,186.77
+PROD0066,Zenith Audio 066,Electronics,Audio,Nexa,608.42,448.65
+PROD0067,Vertex Audio 067,Electronics,Audio,Orion,22.88,17.23
+PROD0068,Vertex Audio 068,Electronics,Audio,Zenith,512.74,241.77
+PROD0069,Nova Audio 069,Electronics,Audio,Aria,37.17,22.54
+PROD0070,Mira Audio 070,Electronics,Audio,Atria,710.98,375.56
+PROD0071,Atria Audio 071,Electronics,Audio,Nexa,510.83,278.52
+PROD0072,Zenith Audio 072,Electronics,Audio,Mira,305.99,141.73
+PROD0073,Vesta Audio 073,Electronics,Audio,Mira,350.2,158.15
+PROD0074,Mira Audio 074,Electronics,Audio,Nova,579.63,398.55
+PROD0075,Nexa Audio 075,Electronics,Audio,Nexa,724.49,487.01
+PROD0076,Orion Accessories 076,Electronics,Accessories,Vesta,511.99,302.14
+PROD0077,Aria Accessories 077,Electronics,Accessories,Vertex,92.04,42.17
+PROD0078,Mira Accessories 078,Electronics,Accessories,Mira,380.89,253.11
+PROD0079,Vesta Accessories 079,Electronics,Accessories,Zenith,318.73,205.21
+PROD0080,Atria Accessories 080,Electronics,Accessories,Pulse,832.01,444.26
+PROD0081,Mira Accessories 081,Electronics,Accessories,Nova,764.83,412.9
+PROD0082,Pulse Accessories 082,Electronics,Accessories,Zenith,110.71,73.09
+PROD0083,Pulse Accessories 083,Electronics,Accessories,Nexa,484.93,309.03
+PROD0084,Mira Accessories 084,Electronics,Accessories,Mira,220.91,153.03
+PROD0085,Orion Accessories 085,Electronics,Accessories,Zenith,460.11,287.39
+PROD0086,Mira Accessories 086,Electronics,Accessories,Vesta,500.03,365.97
+PROD0087,Aria Accessories 087,Electronics,Accessories,Nova,198.8,138.1
+PROD0088,Vesta Accessories 088,Electronics,Accessories,Pulse,760.45,459.88
+PROD0089,Vertex Accessories 089,Electronics,Accessories,Vesta,878.06,512.74
+PROD0090,Mira Accessories 090,Electronics,Accessories,Zenith,538.13,340.77
+PROD0091,Nova Accessories 091,Electronics,Accessories,Atria,870.41,434.36
+PROD0092,Orion Accessories 092,Electronics,Accessories,Mira,389.84,267.18
+PROD0093,Zenith Accessories 093,Electronics,Accessories,Pulse,860.33,667.41
+PROD0094,Vesta Accessories 094,Electronics,Accessories,Atria,233.01,128.42
+PROD0095,Atria Accessories 095,Electronics,Accessories,Orion,711.6,366.29
+PROD0096,Vesta Accessories 096,Electronics,Accessories,Vesta,379.39,251.66
+PROD0097,Vesta Accessories 097,Electronics,Accessories,Orion,802.8,506.11
+PROD0098,Zenith Accessories 098,Electronics,Accessories,Atria,93.23,51.47
+PROD0099,Aria Accessories 099,Electronics,Accessories,Mira,527.51,349.32
+PROD0100,Vesta Accessories 100,Electronics,Accessories,Orion,739.73,514.35
+PROD0101,Orion Kitchen 101,Home,Kitchen,Nova,605.31,341.25
+PROD0102,Orion Kitchen 102,Home,Kitchen,Nova,39.51,21.48
+PROD0103,Zenith Kitchen 103,Home,Kitchen,Aria,230.16,171.46
+PROD0104,Pulse Kitchen 104,Home,Kitchen,Vertex,526.41,410.53
+PROD0105,Mira Kitchen 105,Home,Kitchen,Mira,378.02,251.34
+PROD0106,Vertex Kitchen 106,Home,Kitchen,Vertex,829.69,391.0
+PROD0107,Orion Kitchen 107,Home,Kitchen,Atria,645.96,345.02
+PROD0108,Atria Kitchen 108,Home,Kitchen,Pulse,499.31,250.92
+PROD0109,Atria Kitchen 109,Home,Kitchen,Vertex,293.34,146.72
+PROD0110,Mira Kitchen 110,Home,Kitchen,Zenith,766.99,493.46
+PROD0111,Atria Kitchen 111,Home,Kitchen,Aria,86.15,64.57
+PROD0112,Mira Kitchen 112,Home,Kitchen,Pulse,183.22,130.4
+PROD0113,Pulse Kitchen 113,Home,Kitchen,Mira,122.94,89.83
+PROD0114,Mira Kitchen 114,Home,Kitchen,Aria,463.44,215.86
+PROD0115,Nova Kitchen 115,Home,Kitchen,Aria,828.5,415.46
+PROD0116,Vesta Kitchen 116,Home,Kitchen,Pulse,396.39,295.22
+PROD0117,Nexa Kitchen 117,Home,Kitchen,Vesta,156.18,111.41
+PROD0118,Nova Kitchen 118,Home,Kitchen,Pulse,377.85,239.86
+PROD0119,Nova Kitchen 119,Home,Kitchen,Orion,876.26,668.57
+PROD0120,Aria Kitchen 120,Home,Kitchen,Aria,514.27,251.44
+PROD0121,Orion Kitchen 121,Home,Kitchen,Nexa,582.73,413.55
+PROD0122,Zenith Kitchen 122,Home,Kitchen,Zenith,23.8,11.61
+PROD0123,Aria Kitchen 123,Home,Kitchen,Vertex,150.25,115.04
+PROD0124,Nova Kitchen 124,Home,Kitchen,Orion,576.18,305.67
+PROD0125,Pulse Kitchen 125,Home,Kitchen,Orion,350.3,255.66
+PROD0126,Nexa Furniture 126,Home,Furniture,Orion,187.14,129.03
+PROD0127,Zenith Furniture 127,Home,Furniture,Zenith,127.25,78.91
+PROD0128,Aria Furniture 128,Home,Furniture,Mira,86.0,52.33
+PROD0129,Atria Furniture 129,Home,Furniture,Atria,606.55,344.33
+PROD0130,Vesta Furniture 130,Home,Furniture,Nova,598.79,292.34
+PROD0131,Pulse Furniture 131,Home,Furniture,Orion,265.94,123.14
+PROD0132,Atria Furniture 132,Home,Furniture,Zenith,888.83,556.51
+PROD0133,Pulse Furniture 133,Home,Furniture,Nova,240.59,167.87
+PROD0134,Vertex Furniture 134,Home,Furniture,Aria,655.52,299.55
+PROD0135,Mira Furniture 135,Home,Furniture,Vertex,136.26,76.16
+PROD0136,Vesta Furniture 136,Home,Furniture,Vesta,71.44,34.22
+PROD0137,Atria Furniture 137,Home,Furniture,Nexa,756.28,499.28
+PROD0138,Aria Furniture 138,Home,Furniture,Vertex,356.25,234.57
+PROD0139,Mira Furniture 139,Home,Furniture,Mira,715.9,548.56
+PROD0140,Orion Furniture 140,Home,Furniture,Pulse,271.68,194.7
+PROD0141,Pulse Furniture 141,Home,Furniture,Aria,806.08,467.81
+PROD0142,Atria Furniture 142,Home,Furniture,Atria,633.92,421.11
+PROD0143,Mira Furniture 143,Home,Furniture,Zenith,178.04,134.19
+PROD0144,Pulse Furniture 144,Home,Furniture,Zenith,732.65,365.2
+PROD0145,Pulse Furniture 145,Home,Furniture,Orion,367.74,173.8
+PROD0146,Pulse Furniture 146,Home,Furniture,Zenith,817.26,391.88
+PROD0147,Atria Furniture 147,Home,Furniture,Nova,649.25,377.04
+PROD0148,Atria Furniture 148,Home,Furniture,Orion,218.81,136.99
+PROD0149,Nexa Furniture 149,Home,Furniture,Zenith,651.93,469.95
+PROD0150,Aria Furniture 150,Home,Furniture,Nexa,826.89,633.1
+PROD0151,Nova Home Decor 151,Home,Home Decor,Nexa,837.2,457.59
+PROD0152,Aria Home Decor 152,Home,Home Decor,Vertex,169.28,123.41
+PROD0153,Nexa Home Decor 153,Home,Home Decor,Pulse,743.46,538.16
+PROD0154,Orion Home Decor 154,Home,Home Decor,Pulse,640.84,298.23
+PROD0155,Aria Home Decor 155,Home,Home Decor,Nova,422.52,203.01
+PROD0156,Nexa Home Decor 156,Home,Home Decor,Nova,493.79,371.01
+PROD0157,Nexa Home Decor 157,Home,Home Decor,Pulse,413.55,206.27
+PROD0158,Aria Home Decor 158,Home,Home Decor,Zenith,765.12,485.39
+PROD0159,Atria Home Decor 159,Home,Home Decor,Mira,588.91,374.46
+PROD0160,Vertex Home Decor 160,Home,Home Decor,Nexa,673.9,371.34
+PROD0161,Nexa Home Decor 161,Home,Home Decor,Vesta,831.01,448.64
+PROD0162,Orion Home Decor 162,Home,Home Decor,Vesta,290.62,161.17
+PROD0163,Nexa Home Decor 163,Home,Home Decor,Mira,761.72,586.01
+PROD0164,Aria Home Decor 164,Home,Home Decor,Pulse,89.3,43.02
+PROD0165,Nexa Home Decor 165,Home,Home Decor,Vesta,421.08,284.09
+PROD0166,Nova Home Decor 166,Home,Home Decor,Atria,674.72,346.76
+PROD0167,Vertex Home Decor 167,Home,Home Decor,Atria,386.27,260.07
+PROD0168,Mira Home Decor 168,Home,Home Decor,Nexa,473.16,366.14
+PROD0169,Pulse Home Decor 169,Home,Home Decor,Aria,349.63,247.0
+PROD0170,Orion Home Decor 170,Home,Home Decor,Nexa,146.97,89.49
+PROD0171,Vesta Home Decor 171,Home,Home Decor,Vertex,642.61,477.05
+PROD0172,Vertex Home Decor 172,Home,Home Decor,Nexa,688.63,382.81
+PROD0173,Orion Home Decor 173,Home,Home Decor,Pulse,876.23,618.02
+PROD0174,Orion Home Decor 174,Home,Home Decor,Orion,775.11,434.85
+PROD0175,Zenith Home Decor 175,Home,Home Decor,Aria,754.8,527.99
+PROD0176,Zenith Appliances 176,Home,Appliances,Atria,441.84,275.38
+PROD0177,Zenith Appliances 177,Home,Appliances,Nexa,366.61,233.6
+PROD0178,Atria Appliances 178,Home,Appliances,Zenith,361.98,274.41
+PROD0179,Aria Appliances 179,Home,Appliances,Atria,557.73,343.02
+PROD0180,Orion Appliances 180,Home,Appliances,Vesta,427.11,295.98
+PROD0181,Nova Appliances 181,Home,Appliances,Zenith,252.43,150.34
+PROD0182,Mira Appliances 182,Home,Appliances,Mira,428.17,289.23
+PROD0183,Zenith Appliances 183,Home,Appliances,Atria,141.55,99.8
+PROD0184,Mira Appliances 184,Home,Appliances,Nova,818.35,388.07
+PROD0185,Aria Appliances 185,Home,Appliances,Orion,841.44,650.57
+PROD0186,Nova Appliances 186,Home,Appliances,Orion,747.98,361.9
+PROD0187,Aria Appliances 187,Home,Appliances,Atria,879.91,552.37
+PROD0188,Zenith Appliances 188,Home,Appliances,Pulse,224.07,162.94
+PROD0189,Pulse Appliances 189,Home,Appliances,Nova,596.36,385.5
+PROD0190,Vesta Appliances 190,Home,Appliances,Atria,600.0,420.9
+PROD0191,Orion Appliances 191,Home,Appliances,Nova,569.8,435.15
+PROD0192,Aria Appliances 192,Home,Appliances,Atria,409.34,195.85
+PROD0193,Pulse Appliances 193,Home,Appliances,Vesta,346.37,189.92
+PROD0194,Pulse Appliances 194,Home,Appliances,Pulse,716.98,354.12
+PROD0195,Zenith Appliances 195,Home,Appliances,Vertex,641.65,397.63
+PROD0196,Orion Appliances 196,Home,Appliances,Atria,896.25,420.6
+PROD0197,Mira Appliances 197,Home,Appliances,Vesta,40.49,24.88
+PROD0198,Mira Appliances 198,Home,Appliances,Mira,84.23,62.95
+PROD0199,Pulse Appliances 199,Home,Appliances,Pulse,720.22,481.38
+PROD0200,Aria Appliances 200,Home,Appliances,Zenith,661.32,385.28
+PROD0201,Nexa Men 201,Fashion,Men,Nova,286.39,182.0
+PROD0202,Nexa Men 202,Fashion,Men,Orion,433.18,233.28
+PROD0203,Aria Men 203,Fashion,Men,Atria,711.67,420.23
+PROD0204,Nexa Men 204,Fashion,Men,Orion,157.76,110.37
+PROD0205,Pulse Men 205,Fashion,Men,Atria,74.01,57.26
+PROD0206,Zenith Men 206,Fashion,Men,Pulse,436.17,288.51
+PROD0207,Pulse Men 207,Fashion,Men,Vesta,188.58,109.8
+PROD0208,Nova Men 208,Fashion,Men,Atria,219.15,142.58
+PROD0209,Orion Men 209,Fashion,Men,Orion,111.0,70.95
+PROD0210,Nova Men 210,Fashion,Men,Pulse,412.66,189.37
+PROD0211,Nexa Men 211,Fashion,Men,Nexa,638.85,397.98
+PROD0212,Aria Men 212,Fashion,Men,Vesta,759.14,361.39
+PROD0213,Nexa Men 213,Fashion,Men,Zenith,349.13,256.83
+PROD0214,Vertex Men 214,Fashion,Men,Vesta,311.22,231.25
+PROD0215,Nexa Men 215,Fashion,Men,Pulse,237.1,132.25
+PROD0216,Orion Men 216,Fashion,Men,Orion,857.04,590.41
+PROD0217,Orion Men 217,Fashion,Men,Aria,501.81,390.43
+PROD0218,Vesta Men 218,Fashion,Men,Orion,717.42,433.88
+PROD0219,Atria Men 219,Fashion,Men,Pulse,771.24,570.77
+PROD0220,Atria Men 220,Fashion,Men,Vesta,722.44,371.6
+PROD0221,Vesta Men 221,Fashion,Men,Pulse,300.47,182.91
+PROD0222,Atria Men 222,Fashion,Men,Vertex,53.81,25.01
+PROD0223,Vesta Men 223,Fashion,Men,Zenith,377.23,232.38
+PROD0224,Aria Men 224,Fashion,Men,Vertex,138.1,100.85
+PROD0225,Vertex Men 225,Fashion,Men,Aria,632.64,338.45
+PROD0226,Mira Women 226,Fashion,Women,Nova,157.25,108.2
+PROD0227,Aria Women 227,Fashion,Women,Aria,158.46,102.6
+PROD0228,Pulse Women 228,Fashion,Women,Zenith,726.66,503.21
+PROD0229,Nexa Women 229,Fashion,Women,Mira,407.63,287.49
+PROD0230,Nexa Women 230,Fashion,Women,Nexa,225.77,154.96
+PROD0231,Aria Women 231,Fashion,Women,Atria,675.69,324.16
+PROD0232,Zenith Women 232,Fashion,Women,Pulse,79.48,39.7
+PROD0233,Nova Women 233,Fashion,Women,Aria,899.28,413.34
+PROD0234,Zenith Women 234,Fashion,Women,Atria,656.68,369.38
+PROD0235,Nova Women 235,Fashion,Women,Nexa,227.67,169.6
+PROD0236,Vertex Women 236,Fashion,Women,Atria,50.76,30.36
+PROD0237,Atria Women 237,Fashion,Women,Nova,476.81,345.17
+PROD0238,Nova Women 238,Fashion,Women,Zenith,841.57,616.78
+PROD0239,Atria Women 239,Fashion,Women,Mira,613.57,441.95
+PROD0240,Nexa Women 240,Fashion,Women,Mira,433.63,234.44
+PROD0241,Mira Women 241,Fashion,Women,Orion,645.28,342.16
+PROD0242,Zenith Women 242,Fashion,Women,Vesta,439.73,232.64
+PROD0243,Pulse Women 243,Fashion,Women,Nexa,184.82,119.21
+PROD0244,Zenith Women 244,Fashion,Women,Nexa,348.99,252.08
+PROD0245,Aria Women 245,Fashion,Women,Mira,113.14,62.32
+PROD0246,Orion Women 246,Fashion,Women,Vertex,493.64,223.52
+PROD0247,Vertex Women 247,Fashion,Women,Atria,469.51,294.02
+PROD0248,Pulse Women 248,Fashion,Women,Nexa,112.21,70.63
+PROD0249,Nova Women 249,Fashion,Women,Vertex,201.79,93.32
+PROD0250,Vertex Women 250,Fashion,Women,Mira,539.65,249.9
+PROD0251,Vertex Shoes 251,Fashion,Shoes,Nova,235.99,163.23
+PROD0252,Vesta Shoes 252,Fashion,Shoes,Nova,639.61,310.87
+PROD0253,Orion Shoes 253,Fashion,Shoes,Atria,794.05,436.89
+PROD0254,Orion Shoes 254,Fashion,Shoes,Nova,620.59,473.34
+PROD0255,Mira Shoes 255,Fashion,Shoes,Nexa,35.36,20.13
+PROD0256,Orion Shoes 256,Fashion,Shoes,Vesta,147.79,113.95
+PROD0257,Mira Shoes 257,Fashion,Shoes,Nova,483.15,367.53
+PROD0258,Orion Shoes 258,Fashion,Shoes,Nova,142.05,66.05
+PROD0259,Aria Shoes 259,Fashion,Shoes,Orion,746.31,379.92
+PROD0260,Vesta Shoes 260,Fashion,Shoes,Pulse,850.54,462.86
+PROD0261,Aria Shoes 261,Fashion,Shoes,Atria,534.01,327.41
+PROD0262,Zenith Shoes 262,Fashion,Shoes,Pulse,311.14,217.93
+PROD0263,Orion Shoes 263,Fashion,Shoes,Orion,323.43,183.51
+PROD0264,Mira Shoes 264,Fashion,Shoes,Vertex,685.97,486.51
+PROD0265,Vesta Shoes 265,Fashion,Shoes,Nexa,877.5,675.35
+PROD0266,Vesta Shoes 266,Fashion,Shoes,Atria,569.71,370.71
+PROD0267,Aria Shoes 267,Fashion,Shoes,Nova,190.08,104.44
+PROD0268,Vesta Shoes 268,Fashion,Shoes,Vertex,336.06,191.49
+PROD0269,Vertex Shoes 269,Fashion,Shoes,Aria,17.79,11.46
+PROD0270,Nexa Shoes 270,Fashion,Shoes,Atria,201.52,98.94
+PROD0271,Aria Shoes 271,Fashion,Shoes,Atria,817.29,621.48
+PROD0272,Nova Shoes 272,Fashion,Shoes,Vertex,248.92,112.87
+PROD0273,Zenith Shoes 273,Fashion,Shoes,Vesta,442.7,248.09
+PROD0274,Orion Shoes 274,Fashion,Shoes,Vertex,893.06,477.26
+PROD0275,Vesta Shoes 275,Fashion,Shoes,Orion,680.91,514.47
+PROD0276,Zenith Bags 276,Fashion,Bags,Orion,392.35,211.88
+PROD0277,Nova Bags 277,Fashion,Bags,Aria,152.31,83.91
+PROD0278,Aria Bags 278,Fashion,Bags,Nexa,141.42,73.59
+PROD0279,Vesta Bags 279,Fashion,Bags,Pulse,98.32,44.49
+PROD0280,Nexa Bags 280,Fashion,Bags,Mira,751.69,399.49
+PROD0281,Pulse Bags 281,Fashion,Bags,Atria,434.13,271.7
+PROD0282,Nexa Bags 282,Fashion,Bags,Vertex,520.91,314.53
+PROD0283,Orion Bags 283,Fashion,Bags,Nova,711.17,536.26
+PROD0284,Orion Bags 284,Fashion,Bags,Nexa,179.18,109.88
+PROD0285,Pulse Bags 285,Fashion,Bags,Vesta,107.67,81.08
+PROD0286,Orion Bags 286,Fashion,Bags,Vertex,753.72,433.65
+PROD0287,Nexa Bags 287,Fashion,Bags,Atria,536.08,355.84
+PROD0288,Nova Bags 288,Fashion,Bags,Nexa,245.93,167.84
+PROD0289,Atria Bags 289,Fashion,Bags,Pulse,356.69,198.78
+PROD0290,Mira Bags 290,Fashion,Bags,Atria,152.75,82.43
+PROD0291,Zenith Bags 291,Fashion,Bags,Pulse,215.56,149.61
+PROD0292,Vesta Bags 292,Fashion,Bags,Aria,419.57,312.17
+PROD0293,Atria Bags 293,Fashion,Bags,Zenith,92.04,69.01
+PROD0294,Mira Bags 294,Fashion,Bags,Vesta,209.93,160.07
+PROD0295,Vesta Bags 295,Fashion,Bags,Nexa,701.82,519.5
+PROD0296,Vesta Bags 296,Fashion,Bags,Pulse,166.49,119.03
+PROD0297,Vertex Bags 297,Fashion,Bags,Nova,215.43,109.63
+PROD0298,Orion Bags 298,Fashion,Bags,Pulse,671.14,499.51
+PROD0299,Zenith Bags 299,Fashion,Bags,Pulse,295.5,135.59
+PROD0300,Zenith Bags 300,Fashion,Bags,Mira,842.55,587.23
+PROD0301,Vesta Skincare 301,Beauty,Skincare,Nova,266.18,125.3
+PROD0302,Nova Skincare 302,Beauty,Skincare,Orion,735.97,531.32
+PROD0303,Pulse Skincare 303,Beauty,Skincare,Mira,249.76,133.98
+PROD0304,Nexa Skincare 304,Beauty,Skincare,Mira,59.32,33.88
+PROD0305,Orion Skincare 305,Beauty,Skincare,Pulse,400.07,221.44
+PROD0306,Aria Skincare 306,Beauty,Skincare,Pulse,513.97,246.47
+PROD0307,Nova Skincare 307,Beauty,Skincare,Nova,324.84,146.92
+PROD0308,Nexa Skincare 308,Beauty,Skincare,Mira,60.34,28.83
+PROD0309,Vesta Skincare 309,Beauty,Skincare,Vertex,783.62,354.91
+PROD0310,Orion Skincare 310,Beauty,Skincare,Nova,522.32,253.87
+PROD0311,Nova Skincare 311,Beauty,Skincare,Zenith,889.6,408.31
+PROD0312,Pulse Skincare 312,Beauty,Skincare,Aria,767.53,484.28
+PROD0313,Vertex Skincare 313,Beauty,Skincare,Vertex,639.76,443.0
+PROD0314,Mira Skincare 314,Beauty,Skincare,Nexa,452.65,282.46
+PROD0315,Atria Skincare 315,Beauty,Skincare,Nova,244.66,139.05
+PROD0316,Pulse Skincare 316,Beauty,Skincare,Nova,88.09,53.28
+PROD0317,Vertex Skincare 317,Beauty,Skincare,Orion,850.15,459.37
+PROD0318,Pulse Skincare 318,Beauty,Skincare,Zenith,749.62,525.04
+PROD0319,Vertex Skincare 319,Beauty,Skincare,Pulse,494.97,249.06
+PROD0320,Aria Skincare 320,Beauty,Skincare,Pulse,326.77,149.93
+PROD0321,Mira Skincare 321,Beauty,Skincare,Vesta,181.67,122.19
+PROD0322,Vertex Skincare 322,Beauty,Skincare,Vertex,465.99,321.47
+PROD0323,Vesta Skincare 323,Beauty,Skincare,Aria,42.48,30.67
+PROD0324,Vesta Skincare 324,Beauty,Skincare,Zenith,254.9,140.62
+PROD0325,Aria Skincare 325,Beauty,Skincare,Vesta,817.38,474.65
+PROD0326,Zenith Haircare 326,Beauty,Haircare,Pulse,822.04,407.32
+PROD0327,Orion Haircare 327,Beauty,Haircare,Vertex,569.02,319.5
+PROD0328,Vertex Haircare 328,Beauty,Haircare,Pulse,481.4,297.72
+PROD0329,Nova Haircare 329,Beauty,Haircare,Mira,899.23,595.57
+PROD0330,Zenith Haircare 330,Beauty,Haircare,Orion,717.33,333.19
+PROD0331,Vesta Haircare 331,Beauty,Haircare,Vertex,876.1,507.95
+PROD0332,Pulse Haircare 332,Beauty,Haircare,Orion,30.64,13.89
+PROD0333,Atria Haircare 333,Beauty,Haircare,Mira,365.86,184.03
+PROD0334,Nova Haircare 334,Beauty,Haircare,Aria,581.27,451.56
+PROD0335,Vesta Haircare 335,Beauty,Haircare,Zenith,752.35,474.47
+PROD0336,Nexa Haircare 336,Beauty,Haircare,Orion,460.43,337.01
+PROD0337,Zenith Haircare 337,Beauty,Haircare,Pulse,613.07,320.46
+PROD0338,Zenith Haircare 338,Beauty,Haircare,Nexa,150.55,76.66
+PROD0339,Nova Haircare 339,Beauty,Haircare,Pulse,80.24,54.76
+PROD0340,Vertex Haircare 340,Beauty,Haircare,Atria,120.87,85.85
+PROD0341,Mira Haircare 341,Beauty,Haircare,Zenith,837.68,595.9
+PROD0342,Nexa Haircare 342,Beauty,Haircare,Vertex,297.67,188.69
+PROD0343,Pulse Haircare 343,Beauty,Haircare,Vertex,761.24,413.94
+PROD0344,Mira Haircare 344,Beauty,Haircare,Nexa,147.27,67.86
+PROD0345,Atria Haircare 345,Beauty,Haircare,Zenith,615.95,292.48
+PROD0346,Nexa Haircare 346,Beauty,Haircare,Zenith,624.38,458.19
+PROD0347,Nexa Haircare 347,Beauty,Haircare,Nova,199.64,98.43
+PROD0348,Vesta Haircare 348,Beauty,Haircare,Pulse,253.6,144.47
+PROD0349,Aria Haircare 349,Beauty,Haircare,Aria,119.65,58.12
+PROD0350,Orion Haircare 350,Beauty,Haircare,Nexa,329.28,219.09
+PROD0351,Vesta Makeup 351,Beauty,Makeup,Aria,298.02,183.39
+PROD0352,Atria Makeup 352,Beauty,Makeup,Nova,22.18,16.87
+PROD0353,Vesta Makeup 353,Beauty,Makeup,Nexa,263.84,122.52
+PROD0354,Pulse Makeup 354,Beauty,Makeup,Nexa,145.02,112.83
+PROD0355,Atria Makeup 355,Beauty,Makeup,Orion,60.95,41.97
+PROD0356,Vesta Makeup 356,Beauty,Makeup,Zenith,483.61,248.66
+PROD0357,Aria Makeup 357,Beauty,Makeup,Orion,851.71,457.82
+PROD0358,Vesta Makeup 358,Beauty,Makeup,Orion,302.0,189.34
+PROD0359,Vertex Makeup 359,Beauty,Makeup,Pulse,317.07,181.17
+PROD0360,Vesta Makeup 360,Beauty,Makeup,Nexa,118.03,72.97
+PROD0361,Nexa Makeup 361,Beauty,Makeup,Nova,299.84,194.08
+PROD0362,Nova Makeup 362,Beauty,Makeup,Pulse,707.52,502.3
+PROD0363,Mira Makeup 363,Beauty,Makeup,Aria,152.16,79.08
+PROD0364,Vertex Makeup 364,Beauty,Makeup,Mira,251.1,113.43
+PROD0365,Nova Makeup 365,Beauty,Makeup,Orion,406.57,283.45
+PROD0366,Vertex Makeup 366,Beauty,Makeup,Pulse,685.61,403.93
+PROD0367,Pulse Makeup 367,Beauty,Makeup,Nexa,289.56,178.76
+PROD0368,Nova Makeup 368,Beauty,Makeup,Orion,454.37,237.21
+PROD0369,Zenith Makeup 369,Beauty,Makeup,Pulse,334.03,243.49
+PROD0370,Aria Makeup 370,Beauty,Makeup,Zenith,893.68,535.81
+PROD0371,Vesta Makeup 371,Beauty,Makeup,Vesta,692.96,435.44
+PROD0372,Orion Makeup 372,Beauty,Makeup,Atria,614.16,333.04
+PROD0373,Nexa Makeup 373,Beauty,Makeup,Mira,330.23,178.07
+PROD0374,Atria Makeup 374,Beauty,Makeup,Orion,199.23,142.86
+PROD0375,Nexa Makeup 375,Beauty,Makeup,Aria,799.08,576.25
+PROD0376,Nova Personal Care 376,Beauty,Personal Care,Nova,136.5,83.91
+PROD0377,Vesta Personal Care 377,Beauty,Personal Care,Vertex,476.46,249.45
+PROD0378,Aria Personal Care 378,Beauty,Personal Care,Vesta,838.89,537.46
+PROD0379,Orion Personal Care 379,Beauty,Personal Care,Mira,779.83,544.85
+PROD0380,Aria Personal Care 380,Beauty,Personal Care,Vertex,677.89,486.48
+PROD0381,Vesta Personal Care 381,Beauty,Personal Care,Vesta,362.33,259.12
+PROD0382,Zenith Personal Care 382,Beauty,Personal Care,Pulse,528.04,309.4
+PROD0383,Zenith Personal Care 383,Beauty,Personal Care,Zenith,193.43,148.94
+PROD0384,Aria Personal Care 384,Beauty,Personal Care,Atria,272.42,134.34
+PROD0385,Atria Personal Care 385,Beauty,Personal Care,Atria,440.84,298.34
+PROD0386,Nova Personal Care 386,Beauty,Personal Care,Atria,134.59,63.31
+PROD0387,Pulse Personal Care 387,Beauty,Personal Care,Nexa,51.7,38.72
+PROD0388,Vesta Personal Care 388,Beauty,Personal Care,Nexa,691.04,330.72
+PROD0389,Atria Personal Care 389,Beauty,Personal Care,Zenith,809.85,569.85
+PROD0390,Aria Personal Care 390,Beauty,Personal Care,Vesta,559.95,300.91
+PROD0391,Mira Personal Care 391,Beauty,Personal Care,Zenith,119.55,73.29
+PROD0392,Atria Personal Care 392,Beauty,Personal Care,Nova,885.06,570.64
+PROD0393,Mira Personal Care 393,Beauty,Personal Care,Nova,479.62,268.02
+PROD0394,Nova Personal Care 394,Beauty,Personal Care,Zenith,389.29,205.17
+PROD0395,Nexa Personal Care 395,Beauty,Personal Care,Atria,45.18,32.8
+PROD0396,Atria Personal Care 396,Beauty,Personal Care,Orion,729.95,484.16
+PROD0397,Nova Personal Care 397,Beauty,Personal Care,Orion,832.43,409.94
+PROD0398,Vesta Personal Care 398,Beauty,Personal Care,Orion,34.6,24.86
+PROD0399,Nexa Personal Care 399,Beauty,Personal Care,Mira,735.38,411.87
+PROD0400,Nexa Personal Care 400,Beauty,Personal Care,Orion,729.0,361.7
+PROD0401,Mira Fitness 401,Sports,Fitness,Nexa,93.95,64.44
+PROD0402,Nova Fitness 402,Sports,Fitness,Vertex,567.76,282.37
+PROD0403,Mira Fitness 403,Sports,Fitness,Nexa,355.54,267.55
+PROD0404,Nova Fitness 404,Sports,Fitness,Orion,469.09,362.56
+PROD0405,Nexa Fitness 405,Sports,Fitness,Vesta,364.6,178.51
+PROD0406,Orion Fitness 406,Sports,Fitness,Pulse,26.18,17.07
+PROD0407,Nova Fitness 407,Sports,Fitness,Orion,222.3,138.77
+PROD0408,Pulse Fitness 408,Sports,Fitness,Vesta,400.34,208.98
+PROD0409,Atria Fitness 409,Sports,Fitness,Aria,775.49,439.97
+PROD0410,Pulse Fitness 410,Sports,Fitness,Nexa,632.85,290.41
+PROD0411,Atria Fitness 411,Sports,Fitness,Zenith,818.64,518.79
+PROD0412,Nova Fitness 412,Sports,Fitness,Atria,492.79,348.96
+PROD0413,Atria Fitness 413,Sports,Fitness,Nova,663.12,421.56
+PROD0414,Orion Fitness 414,Sports,Fitness,Nexa,861.97,565.92
+PROD0415,Nexa Fitness 415,Sports,Fitness,Vesta,190.84,95.35
+PROD0416,Pulse Fitness 416,Sports,Fitness,Vertex,742.41,557.12
+PROD0417,Pulse Fitness 417,Sports,Fitness,Aria,71.11,54.67
+PROD0418,Mira Fitness 418,Sports,Fitness,Nexa,611.85,363.86
+PROD0419,Nova Fitness 419,Sports,Fitness,Orion,292.36,134.61
+PROD0420,Orion Fitness 420,Sports,Fitness,Pulse,52.17,29.27
+PROD0421,Atria Fitness 421,Sports,Fitness,Orion,62.84,42.08
+PROD0422,Zenith Fitness 422,Sports,Fitness,Zenith,845.73,597.62
+PROD0423,Mira Fitness 423,Sports,Fitness,Vertex,876.62,603.63
+PROD0424,Pulse Fitness 424,Sports,Fitness,Aria,560.07,307.44
+PROD0425,Zenith Fitness 425,Sports,Fitness,Zenith,707.94,354.88
+PROD0426,Aria Outdoor 426,Sports,Outdoor,Nexa,669.34,491.96
+PROD0427,Vesta Outdoor 427,Sports,Outdoor,Vertex,830.86,518.55
+PROD0428,Zenith Outdoor 428,Sports,Outdoor,Atria,845.75,402.16
+PROD0429,Pulse Outdoor 429,Sports,Outdoor,Mira,396.99,267.73
+PROD0430,Nova Outdoor 430,Sports,Outdoor,Nova,736.65,526.46
+PROD0431,Orion Outdoor 431,Sports,Outdoor,Aria,546.11,308.45
+PROD0432,Vertex Outdoor 432,Sports,Outdoor,Vertex,561.03,348.07
+PROD0433,Orion Outdoor 433,Sports,Outdoor,Nova,152.98,74.46
+PROD0434,Zenith Outdoor 434,Sports,Outdoor,Pulse,452.99,289.13
+PROD0435,Nexa Outdoor 435,Sports,Outdoor,Nova,645.93,319.73
+PROD0436,Nexa Outdoor 436,Sports,Outdoor,Vertex,688.61,469.46
+PROD0437,Orion Outdoor 437,Sports,Outdoor,Aria,674.71,513.85
+PROD0438,Orion Outdoor 438,Sports,Outdoor,Vesta,585.37,266.14
+PROD0439,Nexa Outdoor 439,Sports,Outdoor,Zenith,573.97,286.14
+PROD0440,Mira Outdoor 440,Sports,Outdoor,Aria,205.5,96.97
+PROD0441,Pulse Outdoor 441,Sports,Outdoor,Aria,711.91,482.07
+PROD0442,Vertex Outdoor 442,Sports,Outdoor,Nexa,69.29,46.12
+PROD0443,Orion Outdoor 443,Sports,Outdoor,Pulse,260.17,128.8
+PROD0444,Zenith Outdoor 444,Sports,Outdoor,Aria,641.27,398.97
+PROD0445,Vesta Outdoor 445,Sports,Outdoor,Zenith,857.61,628.63
+PROD0446,Orion Outdoor 446,Sports,Outdoor,Nova,699.68,525.58
+PROD0447,Vesta Outdoor 447,Sports,Outdoor,Vesta,820.73,584.22
+PROD0448,Aria Outdoor 448,Sports,Outdoor,Nova,213.8,110.88
+PROD0449,Atria Outdoor 449,Sports,Outdoor,Nova,443.33,222.91
+PROD0450,Nexa Outdoor 450,Sports,Outdoor,Zenith,856.14,617.81
+PROD0451,Nexa Team Sports 451,Sports,Team Sports,Nova,197.86,140.0
+PROD0452,Zenith Team Sports 452,Sports,Team Sports,Zenith,323.72,251.66
+PROD0453,Orion Team Sports 453,Sports,Team Sports,Zenith,295.13,194.63
+PROD0454,Atria Team Sports 454,Sports,Team Sports,Vertex,93.83,56.21
+PROD0455,Aria Team Sports 455,Sports,Team Sports,Zenith,169.89,102.28
+PROD0456,Vesta Team Sports 456,Sports,Team Sports,Aria,582.05,408.88
+PROD0457,Atria Team Sports 457,Sports,Team Sports,Aria,353.47,251.31
+PROD0458,Aria Team Sports 458,Sports,Team Sports,Orion,39.74,20.74
+PROD0459,Orion Team Sports 459,Sports,Team Sports,Zenith,88.9,50.0
+PROD0460,Vesta Team Sports 460,Sports,Team Sports,Zenith,876.04,455.55
+PROD0461,Orion Team Sports 461,Sports,Team Sports,Mira,874.1,414.42
+PROD0462,Orion Team Sports 462,Sports,Team Sports,Pulse,86.57,53.09
+PROD0463,Aria Team Sports 463,Sports,Team Sports,Nexa,567.44,382.94
+PROD0464,Zenith Team Sports 464,Sports,Team Sports,Vertex,777.68,523.03
+PROD0465,Aria Team Sports 465,Sports,Team Sports,Zenith,134.21,79.57
+PROD0466,Zenith Team Sports 466,Sports,Team Sports,Vesta,493.52,323.13
+PROD0467,Nova Team Sports 467,Sports,Team Sports,Mira,362.32,210.26
+PROD0468,Zenith Team Sports 468,Sports,Team Sports,Vesta,813.06,562.0
+PROD0469,Vesta Team Sports 469,Sports,Team Sports,Vesta,558.16,399.93
+PROD0470,Nexa Team Sports 470,Sports,Team Sports,Vertex,835.9,637.82
+PROD0471,Vesta Team Sports 471,Sports,Team Sports,Aria,401.13,296.5
+PROD0472,Atria Team Sports 472,Sports,Team Sports,Nexa,689.71,476.55
+PROD0473,Nexa Team Sports 473,Sports,Team Sports,Mira,468.39,275.34
+PROD0474,Orion Team Sports 474,Sports,Team Sports,Vesta,602.9,418.46
+PROD0475,Mira Team Sports 475,Sports,Team Sports,Vesta,462.03,230.36
+PROD0476,Pulse Running 476,Sports,Running,Pulse,241.14,137.94
+PROD0477,Nexa Running 477,Sports,Running,Vesta,44.35,25.32
+PROD0478,Vertex Running 478,Sports,Running,Atria,222.36,151.79
+PROD0479,Orion Running 479,Sports,Running,Aria,675.45,330.27
+PROD0480,Zenith Running 480,Sports,Running,Nova,290.88,189.77
+PROD0481,Nova Running 481,Sports,Running,Atria,29.5,18.99
+PROD0482,Mira Running 482,Sports,Running,Mira,332.48,219.86
+PROD0483,Aria Running 483,Sports,Running,Vesta,757.46,410.57
+PROD0484,Pulse Running 484,Sports,Running,Nova,491.84,228.13
+PROD0485,Vesta Running 485,Sports,Running,Atria,415.23,187.84
+PROD0486,Vertex Running 486,Sports,Running,Nexa,616.24,307.38
+PROD0487,Orion Running 487,Sports,Running,Aria,514.05,276.92
+PROD0488,Zenith Running 488,Sports,Running,Orion,661.77,501.35
+PROD0489,Atria Running 489,Sports,Running,Atria,15.38,11.88
+PROD0490,Atria Running 490,Sports,Running,Atria,608.56,432.78
+PROD0491,Pulse Running 491,Sports,Running,Zenith,809.81,406.11
+PROD0492,Orion Running 492,Sports,Running,Aria,243.85,122.7
+PROD0493,Nexa Running 493,Sports,Running,Orion,291.04,141.11
+PROD0494,Orion Running 494,Sports,Running,Vesta,476.99,221.91
+PROD0495,Vertex Running 495,Sports,Running,Nova,143.5,65.74
+PROD0496,Vesta Running 496,Sports,Running,Vertex,172.95,78.67
+PROD0497,Atria Running 497,Sports,Running,Mira,284.46,197.82
+PROD0498,Orion Running 498,Sports,Running,Aria,614.93,332.65
+PROD0499,Aria Running 499,Sports,Running,Nova,15.12,7.29
+PROD0500,Orion Running 500,Sports,Running,Mira,878.09,626.77
